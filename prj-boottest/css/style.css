@@ -1,0 +1,14 @@
+body{
+    font-family: Century Gothic;
+    background-color: rgb(236, 211, 182);
+}
+
+.carouselExampleCaptions{
+    width: 75%;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 5px; 
+}
